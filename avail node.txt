@@ -1,0 +1,5 @@
+NODENAME=<Polka>
+AVAIL_PORT=30333
+echo "export NODENAME=$Polka" >> $HOME/.bash_profile
+echo "export AVAIL_PORT=${AVAIL_PORT}" >> $HOME/.bash_profile
+source $HOME/.bash_profile
