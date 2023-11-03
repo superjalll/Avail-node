@@ -1,5 +1,4 @@
-NODENAME=<Polka>
-AVAIL_PORT=30333
-echo "export NODENAME=$Polka" >> $HOME/.bash_profile
-echo "export AVAIL_PORT=${AVAIL_PORT}" >> $HOME/.bash_profile
-source $HOME/.bash_profile
+
+echo -e "\033[0;35m"
+echo "┘┘┘ ̶S̶u̶p̶e̶r̶j̶a̶l̶ ";
+echo -e "\e[0m"
