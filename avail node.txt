@@ -1,4 +1,4 @@
 
 echo -e "\033[0;35m"
-echo "┘┘┘ ̶S̶u̶p̶e̶r̶j̶a̶l̶ ";
+echo "┘┘┘ ̶ ̶S̶u̶p̶e̶r̶j̶a̶l̶l̶l̶";
 echo -e "\e[0m"
