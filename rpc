@@ -1,3 +1,4 @@
+
 # set vars
 AVAIL_PORT=30333
 if [ ! $NODENAME ]; then
