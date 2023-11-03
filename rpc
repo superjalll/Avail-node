@@ -1,5 +1,6 @@
 
 # set vars
+
 AVAIL_PORT=30333
 if [ ! $NODENAME ]; then
 	read -p "Enter node name: " NODENAME
